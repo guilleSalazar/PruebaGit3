@@ -46,8 +46,16 @@ public class PruebaGit {
 		return "Mensaje3 master";
 	}
 	
+
 	public String mensajeM4() {
 		return "Mensaje4 master";
 	}
+
+	public String mensaje_t21() {
+		return "Mensaje21";
+
+	}
+	
+
 	
 }
