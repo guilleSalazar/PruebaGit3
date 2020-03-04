@@ -22,7 +22,9 @@ public class PruebaGit {
 	}
 	
 	
-	
+	public String mensajeM1() {
+		return "Mensaje1 master";
+	}
 	
 	
 	
