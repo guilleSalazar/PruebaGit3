@@ -42,4 +42,8 @@ public class PruebaGit {
 	}
 	
 	
+	public String mensajeM3() {
+		return "Mensaje3 master";
+	}
+	
 }
