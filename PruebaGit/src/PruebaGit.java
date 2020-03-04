@@ -22,8 +22,18 @@ public class PruebaGit {
 	}
 	
 	
+
 	public String mensajeM1() {
 		return "Mensaje1 master";
+	}
+
+	public String mensajet1() {
+		return "Mensaje1";
+	}
+	
+	public String mensajet2() {
+		return "Mensaje2";
+
 	}
 	
 	
