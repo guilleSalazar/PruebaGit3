@@ -27,5 +27,9 @@ public class PruebaGit {
 	}
 	
 	
+	public String mensajeM2() {
+		return "Mensaje2 master";
+	}
+	
 	
 }
