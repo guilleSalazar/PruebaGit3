@@ -26,6 +26,10 @@ public class PruebaGit {
 		return "Mensaje1";
 	}
 	
+	public String mensajet2() {
+		return "Mensaje2";
+	}
+	
 	
 	
 	
